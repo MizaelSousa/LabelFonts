@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:LabelFonts" x:Class="LabelFonts.MainPage">
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Texto A"
+               FontSize="20"
+               HorizontalOptions="Center" 
+               VerticalOptions="CenterAndExpand"
+               x:Name="Label_01"
+               FontFamily="IndieFlower.ttf#IndieFlower"
+               
+               />
+        
+        <Label Text="Texto B"
+               FontSize="20"
+               HorizontalOptions="Center" 
+               VerticalOptions="CenterAndExpand"
+               x:Name="Label_02"
+               FontFamily="Pacifico-Regular.ttf#Pacifico-Regular"
+               />
+        
+        <Label Text="Texto C"
+               FontSize="20"
+               HorizontalOptions="Center" 
+               VerticalOptions="CenterAndExpand"
+               x:Name="Label_03"
+               FontFamily="ShadowsIntoLight.ttf#ShadowsIntoLight"
+               />
+        
+        <Button Text="Clique"
+               FontSize="20"
+               HorizontalOptions="Center" 
+               VerticalOptions="CenterAndExpand"
+               Clicked="MudarFonte" 
+               />
+        
+    </StackLayout>
+</ContentPage>

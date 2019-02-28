@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{D2F553ED-CF4E-4F39-BA15-CE2E960BADC5}|Default">
+  <MonoDevelop.Ide.ItemProperties.LabelFonts FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LabelFonts/MainPage.xaml">
+    <Files>
+      <File FileName="LabelFonts/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="LabelFonts/MainPage.xaml" Line="7" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LabelFonts.Android FirstBuild="True" PreferredExecutionTarget="Android.0045978518" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LabelFonts.iOS FirstBuild="True" />
+</Properties>
